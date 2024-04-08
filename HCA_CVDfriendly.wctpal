@@ -1,0 +1,21 @@
+
+Units:
+                                                                                                                                                                                                                                                                                                                          
+Unique: 15 "RF"                150  150  150  255
+Unique: 14 "Unknown"           189  189  189  255
+# 13-11 are TBD
+#Unique: 13 "TBD"                99   99   99  255
+Unique: 12 "Giant Hail"        123   65  113  255
+Unique: 11 "Large Hail"        165   81  148  255
+Unique: 10 "Small Hail"        230   85   13  255
+Unique: 9  "Graupel"           255  254  158  255
+Unique: 8  "Big Drops Rain"     51  118   58  255
+Unique: 7  "Heavy Rain"         92  169  102  255
+Unique: 6  "Lt./Mod. Rain"     180  220  171  255
+Unique: 5  "Wet Snow"           39   56  113  255
+Unique: 4  "Dry Snow"          127  171  211  255
+Unique: 3  "Ice Crystals"      213  232  243  255
+Unique: 2  "AP/Gr. Clutter"     99   99   99  255
+Unique: 1  "Biological"        217  217  217  255
+#  leave out zero, so it is not in the legend
+#Unique: 0 "No Data"     #000000
